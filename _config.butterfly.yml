@@ -49,7 +49,8 @@ code_blocks:
 #   icon: 链接 || 描述 || 颜色
 social:
   fab fa-github: https://github.com/dmw-net || Github || '#24292e'
-  fas fa-envelope: mailto:3129536285@qq.com || Email || '#4a7dbe'
+  fas fa-envelope:  https://blog.csdn.net/qq_73995047?type=blog || CSDN || '#4a7dbe'
+  fa-brands fa-bilibili: https://space.bilibili.com/437656775?spm_id_from=333.1387.0.0 || 哔哩哔哩
 # --------------------------------------
 # 图片设置
 # --------------------------------------
