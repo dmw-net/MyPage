@@ -47,4 +47,4 @@ jobs:
           git add -A
           git commit -m "Create by workflows"
           git remote add origin https://${{ secrets.GH_TOKEN }}@github.com/dmw-net/dmw-net.github.io.git
-          git push origin HEAD:test -f
+          git push origin HEAD:gh-pages -f
