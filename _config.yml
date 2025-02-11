@@ -7,8 +7,8 @@ author: dmw
 language: zh-CN
 timezone: ''
 #URL
-url: http://dmw-net.github.io/MyPage
-root: /MyPage/
+url: http://dmw-net.github.io/dmw-net.github.io
+root: /dmw-net.github.io/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -69,7 +69,7 @@ theme: butterfly
 # 部署
 deploy:
   type: git
-  repo: https://github.com/dmw-net/MyPage.git
+  repo: https://github.com/dmw-net/dmw-net.github.io.git
   branch: gh-pages
 # 本地搜索
 search:

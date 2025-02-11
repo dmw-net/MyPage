@@ -671,11 +671,11 @@ valine:
 # 官方文档：https://waline.js.org/
 waline:
   # 服务器 URL
-  serverURL: https://comment-five-beta.vercel.app/
+  serverURL: https://comment.2025521.xyz/
   # 评论框背景图片
   bg:
   # 使用 Waline 的访客计数作为页面的访客量
-  pageview: false
+  pageview: true
   # 其他可选配置
   option:
 
