@@ -7,7 +7,7 @@ author: dmw
 language: zh-CN
 timezone: ''
 #URL
-url: http://dmw-net.github.io/dmw-net.github.io
+url: https://dmw-net.github.io
 root: /dmw-net.github.io/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
