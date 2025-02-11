@@ -70,7 +70,7 @@ theme: butterfly
 deploy:
   type: git
   repo: https://github.com/dmw-net/dmw-net.github.io.git
-  branch: gh-pages
+  branch: test
 # 本地搜索
 search:
   path: search.xml

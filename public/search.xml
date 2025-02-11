@@ -59,17 +59,6 @@
     
     
     <entry>
-      <title>留言板</title>
-      <link href="/dmw-net.github.io/comment/index.html"/>
-      <url>/dmw-net.github.io/comment/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>标签</title>
       <link href="/dmw-net.github.io/categories/index.html"/>
       <url>/dmw-net.github.io/categories/index.html</url>
@@ -81,9 +70,9 @@
     
     
     <entry>
-      <title>影片</title>
-      <link href="/dmw-net.github.io/movies/index.html"/>
-      <url>/dmw-net.github.io/movies/index.html</url>
+      <title>留言板</title>
+      <link href="/dmw-net.github.io/comment/index.html"/>
+      <url>/dmw-net.github.io/comment/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -95,6 +84,17 @@
       <title>友链</title>
       <link href="/dmw-net.github.io/link/index.html"/>
       <url>/dmw-net.github.io/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>影片</title>
+      <link href="/dmw-net.github.io/movies/index.html"/>
+      <url>/dmw-net.github.io/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
