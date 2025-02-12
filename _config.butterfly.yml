@@ -128,7 +128,7 @@ error_404:
   # 404 页面的副标题
   subtitle: 'Page Not Found'
   # 404 页面的卡片背景图片
-  background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
+  background: 
 
 # 文章元数据设置
 post_meta:
